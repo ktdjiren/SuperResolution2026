@@ -137,9 +137,4 @@ The framework is applicable to multiple domains:
 * Ho et al., "Denoising Diffusion Probabilistic Models" (DDPM)
 * Simonyan et al., "Very Deep Convolutional Networks for Large-Scale Image Recognition" (VGG)
 
----
 
-> For full implementation, training scripts, and results: [GitHub Repo](https://github.com/ktdjiren/--SuperResolution)
-
-> This project is open for collaboration, extension, and contribution.
-"# SuperResolution2026" 
